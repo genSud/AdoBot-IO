@@ -36,6 +36,6 @@
     "socket.io": "^1.7.2"
   },
   "devDependencies": {
-    "gulp-watch": "^4.3.11"
+    "gulp-watch": "^5.0.1"
   }
 }
