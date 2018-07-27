@@ -24,7 +24,7 @@
   "homepage": "https://github.com/adonespitogo/dendroid-nodejs#readme",
   "dependencies": {
     "body-parser": "^1.16.1",
-    "express": "^4.14.1",
+    "express": "^4.16.3",
     "gulp": "^3.9.1",
     "gulp-angular-templatecache": "^2.0.0",
     "gulp-concat": "^2.6.1",
